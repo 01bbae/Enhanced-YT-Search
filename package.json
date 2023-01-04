@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "create-react-app": "^5.0.1"
-  }
+  },
+  "name": "enhanced-yt-search",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/01bbae/Enhanced-YT-Search.git"
+  },
+  "author": "BJ Bae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/01bbae/Enhanced-YT-Search/issues"
+  },
+  "homepage": "https://github.com/01bbae/Enhanced-YT-Search#readme"
 }
